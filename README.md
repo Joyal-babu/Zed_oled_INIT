@@ -1,4 +1,4 @@
-\# Zed OLED Initialization project
+# Zed OLED Initialization project
 
 
 
@@ -6,13 +6,13 @@ This repository contains code for initializing the Zedboard OLED display and tur
 
 
 
-\## Before
+## Before
 
-!\[Before Initialization](images/before\_init.jpg)
+![Before Initialization](images/before\_init.jpg)
 
 
 
-\## After
+## After
 
-!\[After Initialization](images/after\_init.png)
+![After Initialization](images/after\_init.png)
 
