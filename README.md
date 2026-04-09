@@ -8,11 +8,11 @@ This repository contains code for initializing the Zedboard OLED display and tur
 
 ## Before
 
-![Before Initialization](images/before\_init.jpg)
+![Before Initialization](images/before_init.jpg)
 
 
 
 ## After
 
-![After Initialization](images/after\_init.png)
+![After Initialization](images/after_init.jpg)
 
